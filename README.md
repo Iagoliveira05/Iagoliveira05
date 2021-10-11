@@ -5,9 +5,9 @@
 - 👨🏻‍🎓 Pronouns: ele/dele.
 
 <div>
-  <a href="https://beacons.ai/IagoOliveira05">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=IagoOliveira05&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IagoOliveira05&layout=compact&langs_count=16&theme=tokyonight"/>
+  <a href="https://beacons.ai/Iagoliveira05">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Iagoliveira05&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iagoliveira05&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
   
 <div style="display: inline_block"><br>
