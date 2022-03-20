@@ -2,7 +2,7 @@
 
 - 💻 Dando início ao mundo da programação.
 - 🗂 Estudando python, html, e css.
-- 👨🏻‍🎓 Pronouns: ele/dele.
+-
 
 <div>
   <a href="https://beacons.ai/Iagoliveira05">
