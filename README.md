@@ -2,7 +2,7 @@
 
 - 💻 Dando início ao mundo da programação.
 - 🗂 Estudando python, html, e css.
--
+
 
 <div>
   <a href="https://beacons.ai/Iagoliveira05">
