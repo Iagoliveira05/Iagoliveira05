@@ -1,7 +1,4 @@
-## Opa, eu sou o Iago!
 
-- 💻 Dando início ao mundo da programação.
-- 🗂 Estudando python, html, e css.
 
 
 <div>
