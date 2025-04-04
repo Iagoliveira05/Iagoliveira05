@@ -14,11 +14,3 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iagoliveira05&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Iagoliveira05&layout=compact&theme=tokyonight)
-
----
-
-### ⚡ Atividade Recente
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Iagoliveira05&theme=tokyo-night)
-
----
